@@ -1,9 +1,9 @@
-*
-/.venv
-/cpsc8430
-/mlp_files
-/mnist
-/vpy
+Project 1/*
+.venv/
+cpsc8430/
+mlp_files/
+mnist/
+vpy/
 
 collect_submission.*
 collectSubmission.*
