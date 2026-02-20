@@ -1,0 +1,14 @@
+/.venv
+/cpsc8430
+/mlp_files
+/mnist
+/vpy
+
+collect_submission.*
+collectSubmission.*
+*.pdf
+*.html
+*.zip
+*.png
+makepdf.py
+STARTER_PACKAGE_INFO.md

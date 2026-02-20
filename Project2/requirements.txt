@@ -1,0 +1,41 @@
+# Project 2: MLP PyTorch - Requirements
+# Core deep learning framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data manipulation and numerical computing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine learning utilities
+scikit-learn>=1.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# Progress bars and utilities
+tqdm>=4.62.0
+
+# Image processing (for potential extensions)
+pillow>=8.3.0
+
+# For better plotting in notebooks
+plotly>=5.0.0
+
+# Development and debugging
+ipdb>=0.13.9
+
+# For reproducibility and environment management
+setuptools>=60.0.0
+wheel>=0.37.0
+
+# Optional: CUDA support (uncomment if using GPU)
+# Note: Install appropriate CUDA version based on your system
+# For CUDA 11.8: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+# For CUDA 12.1: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
