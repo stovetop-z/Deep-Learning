@@ -12,3 +12,4 @@ collectSubmission.*
 *.png
 makepdf.py
 STARTER_PACKAGE_INFO.md
+.DS_Store
